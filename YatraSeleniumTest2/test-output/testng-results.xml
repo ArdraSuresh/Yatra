@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="6" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-17T14:29:11 IST" name="Default suite" finished-at="2022-01-17T14:32:50 IST" duration-ms="218718">
+    <groups>
+    </groups>
+    <test started-at="2022-01-17T14:29:11 IST" name="Default test" finished-at="2022-01-17T14:32:50 IST" duration-ms="218718">
+      <class name="com.yatra.actiondriver.Action">
+        <test-method is-config="true" signature="loadConfig()[pri:0, instance:com.yatra.actiondriver.Action@747ddf94]" started-at="2022-01-17T14:29:11 IST" name="loadConfig" finished-at="2022-01-17T14:29:11 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadConfig -->
+      </class> <!-- com.yatra.actiondriver.Action -->
+      <class name="com.yatra.testcases.IndexPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.yatra.testcases.IndexPageTest@2a65fe7c]" started-at="2022-01-17T14:29:11 IST" name="setup" finished-at="2022-01-17T14:30:14 IST" duration-ms="62637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchBtnTest()[pri:0, instance:com.yatra.testcases.IndexPageTest@2a65fe7c]" started-at="2022-01-17T14:30:14 IST" name="searchBtnTest" finished-at="2022-01-17T14:30:49 IST" duration-ms="35502" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchBtnTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.yatra.testcases.IndexPageTest@2a65fe7c]" started-at="2022-01-17T14:30:49 IST" name="tearDown" finished-at="2022-01-17T14:30:50 IST" duration-ms="447" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.yatra.testcases.IndexPageTest@2a65fe7c]" started-at="2022-01-17T14:30:50 IST" name="setup" finished-at="2022-01-17T14:31:48 IST" duration-ms="57946" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogo()[pri:0, instance:com.yatra.testcases.IndexPageTest@2a65fe7c]" started-at="2022-01-17T14:31:48 IST" name="verifyLogo" finished-at="2022-01-17T14:31:52 IST" duration-ms="4361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.yatra.testcases.IndexPageTest@2a65fe7c]" started-at="2022-01-17T14:31:52 IST" name="tearDown" finished-at="2022-01-17T14:31:53 IST" duration-ms="540" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.yatra.testcases.IndexPageTest@2a65fe7c]" started-at="2022-01-17T14:31:53 IST" name="setup" finished-at="2022-01-17T14:32:49 IST" duration-ms="56769" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyTitle()[pri:0, instance:com.yatra.testcases.IndexPageTest@2a65fe7c]" started-at="2022-01-17T14:32:49 IST" name="verifyTitle" finished-at="2022-01-17T14:32:49 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.yatra.testcases.IndexPageTest@2a65fe7c]" started-at="2022-01-17T14:32:49 IST" name="tearDown" finished-at="2022-01-17T14:32:50 IST" duration-ms="425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.yatra.testcases.IndexPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
